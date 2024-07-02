@@ -13,7 +13,7 @@ I am very honored to be advised by [Prof. Lin](https://wanyu-lin.github.io/) for
 
 ---
 
-# RESEARCH & ACADEMIC PROJECTS
+# Research & Academic Projects
 1. Heart Attack Prediction 					                                               
 - Core Member, Supervisor: Prof. CHUNG Fu Lai Korris, PolyU 	
 
@@ -28,7 +28,20 @@ I am very honored to be advised by [Prof. Lin](https://wanyu-lin.github.io/) for
 
 ---
 
-# EXTRACURRICULAR ACTIVITIES
+# Education
+The Hong Kong Polytechnic University
+> BSc (Hons) Scheme in Computing
+
+Chalmers University of Technology, Sweden   
+> Exchange Program
+
+University of Cambridge, the United Kingdom
+> Summer School
+
+
+---
+
+# Extracurricular activities
 Hong Kong, China Rowing Association                                                                                              
 - Core Member 
 
@@ -40,8 +53,13 @@ PolyU Toastmasters Club
 
 ---
 
-# SKILLS
+# Skills
+Python, Java, R, SQL, JavaScript, C, C++, C#
 
+---
 
+# Language
+- English 
+- Chinese
 
 
