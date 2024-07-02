@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Zhiyuan ZHANG"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently a computer science undergrad in [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interest includes privacy and security in LLM, interpretable AI, and their applications.
+I am currently a computer science undergrad in [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interest includes privacy and security in LLM, interpretable AI, deep learning, and their applications.
 
 I am very honored to be advised by [Prof. Lin](https://wanyu-lin.github.io/) for my final year project.
 
