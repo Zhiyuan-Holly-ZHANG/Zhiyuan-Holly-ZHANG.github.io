@@ -21,10 +21,10 @@ repository               : "Zhiyuan-Holly-ZHANG/Zhiyuan-Holly-ZHANG.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "zzy.png"
   name             : "Zhiyuan ZHANG"
   pronouns         : # example: "she/her"  
-  bio              : "an undergraduate student from HK PolyU"
+  bio              : "An undergraduate student from HK PolyU"
   location         : "Hong Kong, China"
   employer         : "The Hong Kong Polytechnic University "
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/Zhiyuan-Holly-ZHANG"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : zhiyuan-zhang-2583aa22b # Username
+  linkedin         : "zhiyuan-zhang-2583aa22b" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
