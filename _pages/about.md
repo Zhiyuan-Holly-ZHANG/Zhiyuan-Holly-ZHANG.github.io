@@ -11,18 +11,22 @@ I am currently a computer science undergrad in [The Hong Kong Polytechnic Univer
 
 I am very honored to be advised by [Prof. Lin](https://wanyu-lin.github.io/) for my final year project.
 
+---
+
 # RESEARCH & ACADEMIC PROJECTS
-Heart Attack Prediction 					                                               
+1. Heart Attack Prediction 					                                               
 - Core Member, Supervisor: Prof. CHUNG Fu Lai Korris, PolyU 	
 
-Recognition of Fresh and Rotten Fruits                                                                                      
+2. Recognition of Fresh and Rotten Fruits                                                                                      
 - Research Assistant, Supervisor: Prof. CHOW Alan, Nvidia Deep Learning Institute	
 
-Solar Panel System                                                                                                    
+3. Solar Panel System                                                                                                    
 - Core Member of Computing Team, Supervisor: Prof. NGAI Grace, Habitat Green in East Africa
 
-Artificial Intelligence Research Camp                                                                             
+4. Artificial Intelligence Research Camp                                                                             
 - Core Member, Supervisor: Mr. ZHANG Xiao, University of Science and Technology of China	 
+
+---
 
 # EXTRACURRICULAR ACTIVITIES
 Hong Kong, China Rowing Association                                                                                              
@@ -33,6 +37,8 @@ Hong Kong, China Rowing Association
 
 PolyU Toastmasters Club
 - Vice President 
+
+---
 
 # SKILLS
 
