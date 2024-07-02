@@ -29,27 +29,27 @@ I am very honored to be advised by [Prof. Lin](https://wanyu-lin.github.io/) for
 ---
 
 # Education
-The Hong Kong Polytechnic University
-> BSc (Hons) Scheme in Computing
+### The Hong Kong Polytechnic University
+BSc (Hons) Scheme in Computing
 
-Chalmers University of Technology, Sweden   
-> Exchange Program
+### Chalmers University of Technology, Sweden   
+Exchange Program
 
-University of Cambridge, the United Kingdom
-> Summer School
+### University of Cambridge, the United Kingdom
+Summer School
 
 
 ---
 
 # Extracurricular activities
-Hong Kong, China Rowing Association                                                                                              
-- Core Member 
+### Hong Kong, China Rowing Association                                                                                              
+Core Member 
 
-26th HEARTFIRE Team, The Education Service Platform
-- Volunteer Teacher
+### 26th HEARTFIRE Team, The Education Service Platform
+Volunteer Teacher
 
-PolyU Toastmasters Club
-- Vice President 
+### PolyU Toastmasters Club
+Vice President 
 
 ---
 
