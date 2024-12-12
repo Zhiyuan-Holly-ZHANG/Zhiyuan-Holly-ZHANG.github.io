@@ -14,26 +14,39 @@ I am very honored to be advised by [Prof. Lin](https://wanyu-lin.github.io/) for
 ---
 
 # Research & Academic Projects
-1. Heart Attack Prediction 					                                               
-- Core Member, Supervisor: Prof. CHUNG Fu Lai Korris, PolyU 	
+1. Knowledge Inference using LLM 	
+Core Member, Supervisor: Dr. Ruihan Wu, University of California, San Diego
 
-2. Recognition of Fresh and Rotten Fruits                                                                                      
+2. GiFT: Gabor-Filtered Position-Focused Transformer for Neural Operator Learning      
+First Author, Supervisor: Prof. Wanyu Lin, HK PolyU 
+
+3. Large Language Models for Operation Research Problems: A survey                              
+Research Intern, Supervisor: Prof. Bissan Ghaddar, University of Western Ontario, Canada
+
+
+4. Recognition of Fresh and Rotten Fruits                                                                                      
 - Research Assistant, Supervisor: Prof. CHOW Alan, Nvidia Deep Learning Institute	
 
-3. Solar Panel System                                                                                                    
-- Core Member of Computing Team, Supervisor: Prof. NGAI Grace, Habitat Green in East Africa
 
-4. Artificial Intelligence Research Camp                                                                             
+5. Artificial Intelligence Research Camp                                                                             
 - Core Member, Supervisor: Mr. ZHANG Xiao, University of Science and Technology of China	 
 
 ---
 
+1. Heart Attack Prediction 					                                               
+- Core Member, Supervisor: Prof. CHUNG Fu Lai Korris, PolyU 	
+
+2. Solar Panel System                                                                                                    
+- Core Member of Computing Team, Supervisor: Prof. NGAI Grace, Habitat Green in East Africa
+
 # Education
 ### The Hong Kong Polytechnic University
 BSc (Hons) Scheme in Computing
+- Dean's Honours List of Outstanding Student in the 2022/23 Academic Year
 
 ### Chalmers University of Technology, Sweden   
 Exchange Program
+- 2024 Adlerbert Foreign Student Hospitality Foundation Scholarship
 
 ### University of Cambridge, the United Kingdom
 Summer School
@@ -50,6 +63,9 @@ Volunteer Teacher
 
 ### PolyU Toastmasters Club
 Vice President 
+
+### Google Developer Student Club, PolyU                                                                                      
+Core Member 
 
 ---
 
