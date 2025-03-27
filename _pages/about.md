@@ -7,21 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a computer science undergrad in [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interest includes AI4PDE, privacy and security in Deep Learning, interpretable AI, machine learning, and their applications.
+I am currently a computer science undergrad in [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interest includes trustworthy AI, AI4PDE, mobility and their applications.
 
-I am very honored to be advised by [Prof. Lin](https://wanyu-lin.github.io/) for my final year project GiFT.
+- I will be advised by [Prof. Tian](https://www.ytian.info/) and [Prof. Ma](https://mobility-lab.seas.ucla.edu/about/) in the future.
 
 ---
 
-# Research & Academic Projects
+# Research & 
 1. Knowledge Inference using LLM 	
 - Core Member, Supervisor: Dr. Ruihan Wu, University of California, San Diego
 
 2. GiFT: Gabor-Filtered Position-Focused Transformer for Neural Operator Learning      
-- First Author, Supervisor: Prof. Wanyu Lin, HK PolyU 
+- First Author, Supervisor: [Prof. Wanyu Lin](https://wanyu-lin.github.io/), HK PolyU 
 
 3. Large Language Models for Operation Research Problems: A survey                              
-- Research Intern, Supervisor: Prof. Bissan Ghaddar, University of Western Ontario, Canada
+- Research Assistant, Supervisor: Prof. Bissan Ghaddar, University of Western Ontario, Canada
 
 
 4. Recognition of Fresh and Rotten Fruits                                                                                      
@@ -32,7 +32,7 @@ I am very honored to be advised by [Prof. Lin](https://wanyu-lin.github.io/) for
 - Core Member, Supervisor: Mr. ZHANG Xiao, University of Science and Technology of China	 
 
 ---
-
+## Academic Projects
 1. Heart Attack Prediction 					                                               
 - Core Member, Supervisor: Prof. CHUNG Fu Lai Korris, PolyU 	
 
