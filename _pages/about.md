@@ -7,37 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a computer science undergrad in [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interest includes trustworthy AI, AI4PDE, mobility and their applications.
+I am currently a computer science undergrad in [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). 
 
 - I will be advised by [Prof. Tian](https://www.ytian.info/) and [Prof. Ma](https://mobility-lab.seas.ucla.edu/about/) in the future.
 
 ---
 
-# Research & 
+# Research 
 1. Knowledge Inference using LLM 	
 - Core Member, Supervisor: Dr. Ruihan Wu, University of California, San Diego
-
-2. GiFT: Gabor-Filtered Position-Focused Transformer for Neural Operator Learning      
-- First Author, Supervisor: [Prof. Wanyu Lin](https://wanyu-lin.github.io/), HK PolyU 
-
-3. Large Language Models for Operation Research Problems: A survey                              
-- Research Assistant, Supervisor: Prof. Bissan Ghaddar, University of Western Ontario, Canada
-
-
-4. Recognition of Fresh and Rotten Fruits                                                                                      
+2. Recognition of Fresh and Rotten Fruits                                                                                      
 - Research Assistant, Supervisor: Prof. CHOW Alan, Nvidia Deep Learning Institute	
 
-
-5. Artificial Intelligence Research Camp                                                                             
-- Core Member, Supervisor: Mr. ZHANG Xiao, University of Science and Technology of China	 
-
----
-## Academic Projects
-1. Heart Attack Prediction 					                                               
-- Core Member, Supervisor: Prof. CHUNG Fu Lai Korris, PolyU 	
-
-2. Solar Panel System                                                                                                    
-- Core Member of Computing Team, Supervisor: Prof. NGAI Grace, Habitat Green in East Africa
 
 # Education
 ### The Hong Kong Polytechnic University
