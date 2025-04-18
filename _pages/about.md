@@ -14,7 +14,7 @@ I am currently a computer science undergrad in [The Hong Kong Polytechnic Univer
 ---
 
 # Research 
-1. Knowledge Inference using LLM 	
+1. Identity Membership Inspection Using Statistical Methods
 - Core Member, Supervisor: Dr. Ruihan Wu, University of California, San Diego
 2. Recognition of Fresh and Rotten Fruits                                                                                      
 - Research Assistant, Supervisor: Prof. CHOW Alan, Nvidia Deep Learning Institute	
@@ -27,7 +27,6 @@ BSc (Hons) Scheme in Computing
 
 ### Chalmers University of Technology, Sweden   
 Exchange Program
-- 2024 Adlerbert Foreign Student Hospitality Foundation Scholarship
 
 ### University of Cambridge, the United Kingdom
 Summer School
